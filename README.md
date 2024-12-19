@@ -15,8 +15,3 @@ I'm a Data Science student 📊 currently pursuing my MSc at VIT Chennai, India 
 💻 Tech Stack  
 Python | R | SQL | TensorFlow | PyTorch | scikit-learn | Keras | NumPy | Pandas  
 Matplotlib | Power BI | Tableau | DeepXDE | Excel | Linux | Git | LaTeX  
-
-🎓 Highlights  
-- Best Paper Award: "Neural Paths to Solutions" @ 26th CSET Conference, 2024  
-- Developed multiple innovative projects in Deep Learning and Quantum Computing.  
-- Active participant in hackathons and workshops on Data Science and AI.  
