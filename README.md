@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋<br><br>I'm a Data Science student 📊 currently pursuing my MSc at VIT Chennai, India 🇮🇳!<br><br>📊 Passionate about Machine Learning, Deep Learning, and Quantum Computing.<br>💻 Experienced in Python, R, and SQL.<br>📚 Bachelor of Science in Computer Science from MIT Pune.<br>📚 Masters of Science in Data Science from VIT Chennai.
+Hi 👋<br><br>I'm a Data Science student 📊 recently completed my MSc at VIT Chennai, India 🇮🇳!<br><br>📊 Passionate about Machine Learning, Deep Learning, and Quantum Computing.<br>💻 Experienced in Python, R, and SQL.<br>📚 Bachelor of Science in Computer Science from MIT Pune.<br>📚 Masters of Science in Data Science from VIT Chennai.
 
 
 ## 🌐 Socials:
